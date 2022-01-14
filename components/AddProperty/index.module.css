@@ -1,0 +1,21 @@
+.form {
+  display: flex;
+  flex-direction: row;
+}
+
+.input {
+  flex: 1;
+}
+
+.submitBtn {
+}
+
+.suggestion {
+  padding: 1rem;
+  margin-top: 0.5rem;
+  border: 1px solid #ccc;
+}
+
+.suggestion:hover {
+  background-color: #eee;
+}
