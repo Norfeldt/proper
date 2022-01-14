@@ -1,0 +1,21 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  gap: 0.2rem;
+}
+
+.listItem {
+  border: 1px solid gray;
+  border-radius: 1rem;
+  padding: 1rem;
+  width: 80%;
+}
+
+.deleteContainer {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 100%;
+}
