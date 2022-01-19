@@ -19,6 +19,7 @@
     "cypress": "^9.2.1",
     "cypress-localstorage-commands": "^1.6.1",
     "html-webpack-plugin": "5",
+    "nock": "^13.2.2",
     "typescript": "^4.5.4",
     "webpack": "5",
     "webpack-dev-server": "3"
